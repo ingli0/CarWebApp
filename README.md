@@ -4,7 +4,8 @@
 
 Welcome to CarWebApp, a web application built with PHP and MySQL. This project is designed for a car store managment. The server is set up using WinSCP for file transfers and PuTTY for command-line access.
 
- 
+![image](https://github.com/ingli0/CarWebApp/assets/76855285/a97dec25-08d6-49ea-9806-b3aecbe69f1b)
+
 ## Prerequisites
 
 Before you begin, ensure you have the following prerequisites:
@@ -21,4 +22,4 @@ To set up and run the project locally, follow these steps:
    ```bash
    git clone https://github.com/ingli0/CarWebApp
   
-![image](https://github.com/ingli0/CarWebApp/assets/76855285/7d3c1a8e-4c44-4279-8c44-c76279ec80a2)
+ 
