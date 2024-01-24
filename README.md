@@ -1,6 +1,6 @@
 # KAVALA CAR STORE
 LINK : http://lessons.dcie.teiemt.gr/db2/student_2317/
-
+Create, Read, Update, and Delete (CRUD)
 ## Introduction
 
 Welcome to CarWebApp, a web application built with PHP and MySQL. This project is designed for a car store managment. The server is set up using WinSCP for file transfers and PuTTY for command-line access.
